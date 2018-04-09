@@ -1,3 +1,3 @@
-# newbornfrontender.github.io
+# detstvo-korp
 
 Рабочий проект
